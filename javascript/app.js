@@ -51,7 +51,7 @@ $.ajax({
 })
 }
 
-$(document).on("click", ".giff", animateSwitch)
+
 
 
 
