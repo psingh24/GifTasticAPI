@@ -1,10 +1,26 @@
-.jumbotron {
+.navbar {
     background-color: #2b303b;
-    opacity: .6;
-    color: white;
+    /*opacity: .6;*/
+   
 }
 
 
+.logo {
+    position: relative;
+    top: -16px;
+     /*color: white;*/
+     /*text-decoration:none; */
+}
+.icon-bar {
+    float: right;
+    position: relative;
+    top: 6px
+}
+
+span {
+    font-size: 25px;
+     /*color: white;*/
+}
 
 .rating {
     position: relative;
